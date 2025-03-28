@@ -1,0 +1,11 @@
+.top{
+    display:flex;
+    justify-content: space-around;
+    background-color: rgb(66, 66, 66);
+}
+.head{
+    display: flex;
+    flex:1;
+    color:white;
+    justify-content: space-around;
+}
