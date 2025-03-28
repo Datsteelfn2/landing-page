@@ -43,7 +43,11 @@ img{
 }
 /*mid bottom8*/
 .info{
-    max-width: 300px;
+    width: 170px;
+}
+.info .text{
+    margin-top: 10px;
+    text-align: center;
 }
 .info .box{
     height:150px;
